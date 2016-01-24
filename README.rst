@@ -6,7 +6,7 @@ Dependencies
 ----------------
 
 $ pip install cookiecutter
-If you get a Python.h error:
+  If you get a Python.h error:
   $ sudo apt-get install python-dev
 
 Usage
