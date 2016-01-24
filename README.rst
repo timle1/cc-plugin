@@ -6,10 +6,10 @@ Dependencies
 ----------------
 
 $ pip install cookiecutter
-* If you get a Python.h error:
-* $ sudo apt-get install python-dev
+If you get a Python.h error:
+  $ sudo apt-get install python-dev
 
 Usage
 ----------------
-* $ cd wp-content/wp-plugins/
+* $ cd wp-content/plugins/
 * $ cookiecutter https://github.com/timle1/cc-plugin.git
