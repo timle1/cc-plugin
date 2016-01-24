@@ -1,0 +1,12 @@
+{
+	"project_name": "My WP Plugin",
+	"project_short_description": "This plugin does...",
+	"author_name": "Tim Le",
+	"github_username": "timle1",
+	"author_uri": "github.com/{{ cookiecutter.github_username }}",
+	"project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '-') }}",
+	"project_uri": "github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.project_slug }}",
+	"version": "0.1.0",
+	"license": "contact author",
+	"project_namespace": "{{cookiecutter.project_slug[:3]}}"
+}
