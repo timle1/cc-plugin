@@ -5,9 +5,9 @@ How to Use This
 Dependencies
 ----------------
 
-* $ pip install cookiecutter
+$ pip install cookiecutter
 * If you get a Python.h error:
-$ sudo apt-get install python-dev
+* $ sudo apt-get install python-dev
 
 Usage
 ----------------
